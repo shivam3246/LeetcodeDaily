@@ -1,0 +1,5 @@
+Searching in HasMap is O(1)
+
+For Lambda Functions:->  
+1.Single Abstract Method
+2. Iterface with one Implementation Method
